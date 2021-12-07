@@ -6,5 +6,6 @@ public class Student {
         System.out.println("憨憨2");
         System.out.println("憨憨创建分支");
         System.out.println("主干添加");
+        System.out.println("分支添加");
     }
 }
